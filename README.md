@@ -1,5 +1,3 @@
-<h3 align="center">Android developer developer from Czechia</h3>
-
 <h3 align="left">Hey there</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jan-madera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jan-madera" height="30" width="40" /></a>
